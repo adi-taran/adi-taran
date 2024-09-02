@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Python , React.js**
 
-- 💬 Ask me about **Andriod Development, Front-end Development, UI/UX, Game development.**
+- 💬 Ask me about **Software Development, Andriod Development, Web Development, UI/UX, Game development.**
 
 - 📫 How to reach me **adityajain16122001@gmail.com**
 

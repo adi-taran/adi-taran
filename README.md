@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **Python , React.js**
 
-- 💬 Ask me about **Andriod Development, Front-end Development, UI/UX, Game development.**
+- 💬 Ask me about **Software Development, Andriod Development, Web Development, UI/UX, Game development.**
 
-- 📫 How to reach me **akshatsinghbaghel8@gmail.com**
+- 📫 How to reach me **adityajain162001@gmail.com**
 
 - 📄 Know about my Resume [https://drive.google.com/file/d/1aCAQfKT-LV15kkZ947HsYggAUyBJlN8C/view?usp=sharing]([https://drive.google.com/file/d/1aCAQfKT-LV15kkZ947HsYggAUyBJlN8C/view?usp=sharing](https://drive.google.com/file/d/1wrUrQoRUEBeHG33feiYsCfk851QpCI1x/view?usp=drive_link))
 

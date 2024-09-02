@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **akshatsinghbaghel8@gmail.com**
 
-- 📄 Know about my Resume [https://drive.google.com/file/d/1aCAQfKT-LV15kkZ947HsYggAUyBJlN8C/view?usp=sharing](https://drive.google.com/file/d/1aCAQfKT-LV15kkZ947HsYggAUyBJlN8C/view?usp=sharing)
+- 📄 Know about my Resume [https://drive.google.com/file/d/1aCAQfKT-LV15kkZ947HsYggAUyBJlN8C/view?usp=sharing]([https://drive.google.com/file/d/1aCAQfKT-LV15kkZ947HsYggAUyBJlN8C/view?usp=sharing](https://drive.google.com/file/d/1wrUrQoRUEBeHG33feiYsCfk851QpCI1x/view?usp=drive_link))
 
 - ⚡ Fun fact **I'm Space Enthusiams also 😁**
 

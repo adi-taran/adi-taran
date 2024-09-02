@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **Python , React.js**
 
-- 💬 Ask me about **Software Development, Andriod Development, Web Development, UI/UX, Game development.**
+- 💬 Ask me about **Andriod Development, Front-end Development, UI/UX, Game development.**
 
-- 📫 How to reach me **adityajain162001@gmail.com**
+- 📫 How to reach me **akshatsinghbaghel8@gmail.com**
 
 - 📄 Know about my Resume [https://drive.google.com/file/d/1aCAQfKT-LV15kkZ947HsYggAUyBJlN8C/view?usp=sharing]([https://drive.google.com/file/d/1aCAQfKT-LV15kkZ947HsYggAUyBJlN8C/view?usp=sharing](https://drive.google.com/file/d/1wrUrQoRUEBeHG33feiYsCfk851QpCI1x/view?usp=drive_link))
 
@@ -17,10 +17,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/akshat-singh-baghel-64b459190" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akshat-singh-baghel-64b459190" height="30" width="40" /></a>
-<a href="https://instagram.com/_baghelakshat/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_baghelakshat/" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/baghel_akshat" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="baghel_akshat" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/u/akshatsinghbaghel8/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="u/akshatsinghbaghel8/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/aditya-jain-27690b249/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akshat-singh-baghel-64b459190" height="30" width="40" /></a>
+<a href="https://www.instagram.com/aditya_jain_5889/?hl=en" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_baghelakshat/" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/adityajain2001" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="baghel_akshat" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/u/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="u/akshatsinghbaghel8/" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/akshatudit/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="akshatudit/" height="30" width="40" /></a>
 </p>
 
